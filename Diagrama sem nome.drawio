@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T16:34:59.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="J6RTh1HPAkUD2iI11vOz" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T16:39:29.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vOW7n7p-oxLpI25Ussgb" version="20.2.6" type="github">
   <diagram id="hIZEJI_8XoW6DWW8DLKc" name="Página-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,20 @@
         <mxCell id="Xje1eANSap1ce5fZE2_R-44" value="CADASTRO NÃO PERMITIDO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="675" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Xje1eANSap1ce5fZE2_R-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xje1eANSap1ce5fZE2_R-50" target="Xje1eANSap1ce5fZE2_R-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xje1eANSap1ce5fZE2_R-50" value="CADASTRAR" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="529.25" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xje1eANSap1ce5fZE2_R-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xje1eANSap1ce5fZE2_R-52" target="Xje1eANSap1ce5fZE2_R-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xje1eANSap1ce5fZE2_R-52" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 107%; font-family: Arial, sans-serif; color: rgb(13, 37, 50);&quot;&gt;LISTAR PARTICIPANTES / PALESTRANTES&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529.25" y="921" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xje1eANSap1ce5fZE2_R-54" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529.25" y="1018" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
